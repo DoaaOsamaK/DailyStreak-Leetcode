@@ -1,9 +1,9 @@
 # Leetcode Solutions
-Hello, I'm :tw-2b50: ** DOA'A OSAMA KHALAF**, a skilled problem solver!
+Hello, I'm DOA'A OSAMA KHALAF, a skilled problem solver!
 Until February 22, 2024, I have solved more than 250 questions on LeetCode. In this repository, I attach my solutions along with explanations on how to solve them to contribute to the public knowledge. Join me in exploring these solutions and let's embark on the journey of problem-solving together!
 #####  Cheack My accounts in github 
-###### I will be happy if you visit my LinkedIn account and discover my achievements. Just click  :tw-2935:
-:fa-linkedin-square:   [D U A A O](http://https://www.linkedin.com/in/dodo88/ "linkedin")
+###### I will be happy if you visit my LinkedIn account and discover my achievements. Just click  
+[D U A A O](http://https://www.linkedin.com/in/dodo88/ "linkedin")
 ------------
 
 
